@@ -8,9 +8,9 @@ configurations {
 }
 
 dependencies {
-    implementation 'org.eclipse.persistence:org.eclipse.persistence.jpa:3.0.1'
-    implementation 'org.eclipse.persistence:org.eclipse.persistence.extension:3.0.1'
-    eclipselinkAgent 'org.eclipse.persistence:eclipselink:3.0.1'
+    implementation 'org.eclipse.persistence:org.eclipse.persistence.jpa:3.1.0-M1'
+    implementation 'org.eclipse.persistence:org.eclipse.persistence.extension:3.1.0-M1'
+    eclipselinkAgent 'org.eclipse.persistence:eclipselink:3.1.0-M1'
 
     implementation 'com.h2database:h2:1.4.200'
     implementation 'org.slf4j:slf4j-simple:1.7.25'
